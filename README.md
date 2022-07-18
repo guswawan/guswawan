@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, I'm [Agus](https://guswawan.github.io/)! 👋
+
+I am a very curious guy that love digital experiments in creative industries. I have been involved in several projects related to design for branding and music gigs both on campus and in the community.
+
+Apart from having experience in software development, In my idle time, I like to write on my personal blog about anything I am thinking about.
 
 <!--
 **guswawan/guswawan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<br/>
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=guswawan&hide=stars&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guswawan&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)

@@ -1,8 +1,15 @@
 ### Hi there, I'm [Agus](https://guswawan.github.io/)! 👋
 
-I am a very curious guy that love digital experiments in creative industries. I have been involved in several projects related to design for branding and music gigs both on campus and in the community.
+
+I am a Frontend Engineer also very curious guy that love digital experiments in creative industries with skills
+mid-level in the latest tech stack. Main Tech Stack NextJS, MaterialUI, Javascript/Typescript.
 
 Apart from having experience in software development, In my idle time, I like to write on my personal blog about anything I am thinking about.
+
+- 🌱 I’m currently learning [MERN Stack](https://www.mongodb.com/mern-stack) and [Tailwind CSS](https://tailwindcss.com/).
+- 👨🏻‍💻 I’m currently building [WeWorkFrom](https://weworkfrom.super.site/) as a personal side project.
+- 👯 Open to collaborate on any project related to React and Javascript or with designers.
+- 😄 Pronouns: he/him
 
 <!--
 **guswawan/guswawan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

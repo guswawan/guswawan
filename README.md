@@ -7,6 +7,7 @@ Apart from having experience in software development, In my idle time, I like to
 
 - 👨🏻‍💻 I’m currently working at [Inpoin Gamification](https://inpoin.id/).
 - 🌱 I’m currently learning [MERN Stack](https://www.mongodb.com/mern-stack) and [Tailwind CSS](https://tailwindcss.com/).
+- 🔭 I'm currently joining the community for full time remote work.
 - 👯 Open to collaborate on any project related to React and Javascript or with designers.
 - 😄 Pronouns: he/him
 

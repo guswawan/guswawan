@@ -1,4 +1,4 @@
-### Hi there, I'm [Agus](https://guswawan.github.io/)! 👋
+### Hi everyone, I'm [Agus](https://guswawan.github.io/)! 👋
 
 
 I am a Frontend Engineer also very curious guy that love digital experiments in creative industries with 2 years experience in the latest tech stack. Main Tech Stack NextJS, MaterialUI, Javascript/Typescript.

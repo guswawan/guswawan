@@ -9,7 +9,7 @@ Apart from having experience in software development, In my idle time, I like to
 - 🌱 I’m currently learning [MERN Stack](https://www.mongodb.com/mern-stack) and [Tailwind CSS](https://tailwindcss.com/).
 - 🔭 I'm currently following a remote working community.
 - 👯 Open to collaborate on any project related to Javascript or with designers.
-- 😄 Pronouns: he/him
+- 😄 Pronouns: he/him.
 
 <!--
 **guswawan/guswawan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

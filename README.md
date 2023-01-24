@@ -29,6 +29,5 @@ Here are some ideas to get you started:
 
 <br/>
 
-![Guswawan's GitHub stats](https://github-readme-stats.vercel.app/api?username=guswawan&show_icons=true&theme=radical)
 
 [![guswawan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=guswawan)](https://github.com/anuraghazra/github-readme-stats)

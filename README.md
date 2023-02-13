@@ -6,7 +6,7 @@ I'm a Frontend Developer also very curious guy that love digital experiments in 
 Apart from having experience in software development, In my idle time, I like to write on my personal blog about anything I am thinking about.
 
 - 👨🏻‍💻 I’m currently working at [Inpoin Gamification](https://inpoin.id/).
-- 🌱 I’m currently learning [MERN Stack](https://www.mongodb.com/mern-stack) and [Tailwind CSS](https://tailwindcss.com/).
+- 🌱 I’m currently learning [Laravel](https://laravel.com/), [MERN Stack](https://www.mongodb.com/mern-stack) and [Tailwind CSS](https://tailwindcss.com/).
 - 🔭 I'm currently following a remote working community.
 - 👯 Open to collaborate on any project related to Javascript or with designers.
 - 😄 Pronouns: he/him.

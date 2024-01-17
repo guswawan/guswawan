@@ -1,7 +1,7 @@
 ### Hi everyone, I'm [Agus](https://guswawan.github.io/)! 👋
 
 
-I'm a Frontend Developer also very curious guy that love digital experiments in creative industries with 2 years experience in the latest tech stack. Main Tech Stack NextJS, MaterialUI, Javascript.
+I'm a Frontend Developer also very curious guy that love digital experiments in creative industries with 2 years experience in the latest tech stack. Main Tech Stack NextJS, MaterialUI, Javascript, TailwindCSS.
 
 Apart from having experience in software development, In my idle time, I like to write on my personal blog about anything I am thinking about.
 

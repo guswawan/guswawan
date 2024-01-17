@@ -7,6 +7,7 @@ Apart from having experience in software development, In my idle time, I like to
 
 - 👨🏻‍💻 I’m a Staff Product Engineer at [Padi](https://padiumkm.id/).
 - 🌱 I’m currently learning [Fullstack Nextjs](https://nextjs.org/) ,[Laravel](https://laravel.com/), [MERN Stack](https://www.mongodb.com/mern-stack) and [Tailwind CSS](https://tailwindcss.com/).
+- 📝 I wrote down my newfound knowledge and some experiences to share on [Medium](https://medium.com/@agusetyawan).
 - 🔭 I'm currently following a remote working community.
 - 👯 Open to collaborate on any project related to Javascript or with designers.
 - 😄 Pronouns: he/him.

@@ -30,6 +30,4 @@ Here are some ideas to get you started:
 
 <br/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=guswawan)](https://github.com/ryo-ma/github-profile-trophy)
-
 [![guswawan's wakatime stats](https://github-readme-stats.vercel.app/api?username=guswawan)](https://github.com/anuraghazra/github-readme-stats)

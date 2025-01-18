@@ -1,24 +1,22 @@
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="/Images/dark_github.svg">
   <source media="(prefers-color-scheme: light)" srcset="/Images/light_github.svg" />
-<!--   <img alt="Stiven Trizky Katuuk" src="/Images/dark_github.svg" width="100%" /> -->
-</picture>
+  <img alt="Stiven Trizky Katuuk" src="/Images/dark_github.svg" width="100%" /> 
+</picture> -->
 
-## Dynamic Quotes 📜:
+<!-- ## Dynamic Quotes 📜:
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes) -->
 
-<br>
-<b> "Sleep😴 To Program Your Subconscious Space"</b>
+<!-- <b> "Sleep😴 To Program Your Subconscious Space"</b> -->
+
+### Hi everyone, Agus here! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
 
 <img width="40%" align="right" alt="Github Header" src="Images/git-header.svg" />
 
-<p>
 
-- Currently working at <a href="https://www.simajji.com/" target="_blank">Padi</a> as a Frontend Developer. 🏥
-- Seeking opportunities to work in a challenging environments and push my boundaries. 💪
-
-</p>
+- 👨🏻‍💻 Currently working at <a href="https://www.padiumkm.id/" target="_blank">Padi</a> as a Frontend Developer. 🏥
+- 🔭 Seeking opportunities to work in a challenging environments and push my boundaries. 💪
 
 ---
 
@@ -28,15 +26,6 @@
   <img width="40%" align="right" alt="Github Header" src="Images/coding_2.gif" />
 </picture>
 
-<h3 align="left">Frameworks:</h3>
-
-- Laravel
-- Software Architecture
-- Design System
-- Clean Code
-- Refactoring
-- Database
-
 <h3 align="left">Languages:</h3>
 
 - Bahasa Indonesia
@@ -44,7 +33,7 @@
 
 <br><br>
 
-## **Tech Toolbox🧰**<br>
+<!-- ## **Tech Toolbox🧰**<be>
 
 <p align='center'>
 <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
@@ -59,6 +48,7 @@
 <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> </a>
 <a href="https://github.com/" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 <a href="https://www.linux.org/" target="_blank"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux"/> </a>
+-->
   
 ## &#x1f4c8; My GitHub Stats🎯
  

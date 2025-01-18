@@ -71,9 +71,13 @@
    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=guswawan&show_icons=true&theme=default&count_private=true&include_all_commits=true" />
    <img width="48%" alt="Github most language" src="https://github-readme-stats.vercel.app/api?username=guswawan&show_icons=true&theme=chartreuse-dark&count_private=true&include_all_commits=true" />
  </picture> -->
-  [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=guswawan)](https://github.com/anuraghazra/github-readme-stats)
-  [![guswawan's wakatime stats](https://github-readme-stats.vercel.app/api?username=guswawan)](https://github.com/anuraghazra/github-readme-stats)
-  
+<!--   [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats) -->
+
+   <picture>
+<!--    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=guswawan&theme=chartreuse-dark">
+   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=guswawan&theme=default" /> -->
+   <img width="48%" alt="Github most language" src="https://github-readme-stats.vercel.app/api/wakatime?username=guswawan" />
+ </picture>
  <picture>
    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=guswawan&theme=chartreuse-dark">
    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=guswawan&theme=default" />

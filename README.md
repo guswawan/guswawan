@@ -16,7 +16,7 @@
 
 
 - 👨🏻‍💻 Currently working at <a href="https://www.padiumkm.id/" target="_blank">Padi</a> as a Frontend Developer.
-- 🔭 Seeking opportunities to work in a challenging environments and push my boundaries. 💪
+- 🔭 Seeking opportunities to work in a challenging environments and push my boundaries.
 
 ---
 
@@ -91,7 +91,7 @@
   <img alt="Jokes" src="https://readme-jokes.vercel.app/api" />
 </picture>
   
-<h2 align='center'>Support Me By Starring ⭐ Some Of My Repositories</h2>
+<!-- <h2 align='center'>Support Me By Starring ⭐ Some Of My Repositories</h2> -->
 <br>
 <p align='center'>
 <img src="https://media.giphy.com/media/O51MQ3DduOcGW6ofR3/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>

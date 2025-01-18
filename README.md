@@ -113,7 +113,7 @@
 </picture>
 
 ## Have a Smiley Day...😃 :<br>
-
+ 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-jokes.vercel.app/api">
   <source media="(prefers-color-scheme: light)" srcset="https://readme-jokes.vercel.app/api?theme=vue" />

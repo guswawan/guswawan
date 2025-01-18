@@ -5,6 +5,7 @@
 </picture>
 
 ## Dynamic Quotes 📜:
+
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
 
 <br>
@@ -14,7 +15,7 @@
 
 <p>
 
-- Currently working with <a href="https://www.simajji.com/" target="_blank">Simajji Concept</a> as a Software Engineer. 🏥
+- Currently working at <a href="https://www.simajji.com/" target="_blank">Padi</a> as a Frontend Developer. 🏥
 - Seeking opportunities to work in a challenging environments and push my boundaries. 💪
 
 </p>
@@ -27,9 +28,9 @@
   <img width="40%" align="right" alt="Github Header" src="Images/coding_2.gif" />
 </picture>
 
-<h3 align="left">Interests:</h3>
+<h3 align="left">Frameworks:</h3>
 
-- Laravel 
+- Laravel
 - Software Architecture
 - Design System
 - Clean Code
@@ -38,7 +39,7 @@
 
 <h3 align="left">Languages:</h3>
 
-- Indonesia
+- Bahasa Indonesia
 - English 🔤
 
 <br><br>
@@ -76,12 +77,11 @@
  <img width="90%" src="https://activity-graph.herokuapp.com/graph?username=pemudakoding&theme=chartreuse-dark&no-frame=true" /></p>
 </details>
 
-  
 <details><summary>Trophies</summary>
 <p align="left">
 <img width=900 src="https://github-profile-trophy.vercel.app/?username=pemudakoding&column=7&theme=gruvbox&no-frame=true"/>
 </details>
-  
+
 
 <p align="left">
  <picture>
@@ -95,7 +95,7 @@
    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=pemudakoding&theme=default" />
    <img width="48%" alt="Github most language" src="https://github-readme-streak-stats.herokuapp.com/?user=pemudakoding&theme=chartreuse-dark" />
  </picture>
-</p>  
+</p>
 
 <a href="https://gitstalk.netlify.app/pemudakoding/" target="_blank"> See My Latest Activities Here</a>
 
@@ -114,8 +114,8 @@
 [<img align="top" alt="Stackoverflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />](https://stackoverflow.com/users/17766869/stiven-trizky-katuuk)
 <br><br>
 
-  
 ## Just a Snake 🐍 Eating away my Contributions...😭
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pemudakoding/pemudakoding/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pemudakoding/pemudakoding/output/github-snake.svg">
@@ -123,6 +123,7 @@
 </picture>
 
 ## Have a Smiley Day...😃 :<br>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-jokes.vercel.app/api">
   <source media="(prefers-color-scheme: light)" srcset="https://readme-jokes.vercel.app/api?theme=vue" />

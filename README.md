@@ -1,7 +1,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="/Images/dark_github.svg">
   <source media="(prefers-color-scheme: light)" srcset="/Images/light_github.svg" />
-  <img alt="Stiven Trizky Katuuk" src="/Images/dark_github.svg" width="100%" />
+<!--   <img alt="Stiven Trizky Katuuk" src="/Images/dark_github.svg" width="100%" /> -->
 </picture>
 
 ## Dynamic Quotes 📜:

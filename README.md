@@ -83,16 +83,19 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/pemudakoding/pemudakoding/output/github-snake-dark.svg">
 </picture>
 
-## Have a Smiley Day...😃 :<br>
- 
-<picture>
+## Have a Smiley Day... 😃 <br>
+
+<p>
+<picture width="48%">
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-jokes.vercel.app/api">
   <source media="(prefers-color-scheme: light)" srcset="https://readme-jokes.vercel.app/api?theme=vue" />
   <img alt="Jokes" src="https://readme-jokes.vercel.app/api" />
 </picture>
+<img width="48%" height="1%" src="https://media.giphy.com/media/O51MQ3DduOcGW6ofR3/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img>
+</p>
   
 <!-- <h2 align='center'>Support Me By Starring ⭐ Some Of My Repositories</h2> -->
-<br>
-<p align='center'>
-<img src="https://media.giphy.com/media/O51MQ3DduOcGW6ofR3/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
-<br>
+
+<!-- <p align="center">
+<img width="48%" src="https://media.giphy.com/media/O51MQ3DduOcGW6ofR3/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
+<br> -->

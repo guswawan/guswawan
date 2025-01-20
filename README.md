@@ -75,7 +75,7 @@
 <br />
 
 
-## Just a Snake 🐍 Eating away my Contributions...😭
+## Snake 🐍 eating away my contributions...😭
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pemudakoding/pemudakoding/output/github-snake-dark.svg">
@@ -83,7 +83,7 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/pemudakoding/pemudakoding/output/github-snake-dark.svg">
 </picture>
 
-## Have a Smiley Day... 😃 <br>
+## Have a smiley day... 😃 <br>
 
 <p>
 <picture width="48%">

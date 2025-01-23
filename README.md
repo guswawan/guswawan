@@ -86,11 +86,11 @@
 ## Have a smiley day <br>
 
 <p>
-<picture width="48%">
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-jokes.vercel.app/api">
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-jokes.vercel.app/api?theme=vue" />
-  <img alt="Jokes" src="https://readme-jokes.vercel.app/api" />
-</picture>
+  <picture width="48%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-jokes.vercel.app/api">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-jokes.vercel.app/api?theme=vue" />
+    <img alt="Jokes" src="https://readme-jokes.vercel.app/api" />
+  </picture>
 <img width="48%" height="1%" src="https://media.giphy.com/media/O51MQ3DduOcGW6ofR3/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img>
 </p>
   

@@ -70,9 +70,6 @@
 <br />
 <br />
 
-
-## Snake 🐍 eating away my contributions...😭
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pemudakoding/pemudakoding/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pemudakoding/pemudakoding/output/github-snake.svg">

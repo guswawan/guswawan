@@ -68,7 +68,6 @@
 <a href="https://gitstalk.netlify.app/guswawan/" target="_blank"> See My Latest Activities Here</a>
 
 <br />
-<br />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pemudakoding/pemudakoding/output/github-snake-dark.svg">

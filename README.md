@@ -75,8 +75,6 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/pemudakoding/pemudakoding/output/github-snake-dark.svg">
 </picture>
 
-## Have a smiley day <br>
-
 <p>
   <picture width="48%">
     <source media="(prefers-color-scheme: dark)" srcset="https://readme-jokes.vercel.app/api">

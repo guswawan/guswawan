@@ -56,11 +56,12 @@
    	<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=guswawan&show_icons=true&theme=default&count_private=true&include_all_commits=false" />
    	<img width="48%" alt="Github stats" src="https://github-readme-stats.vercel.app/api?username=guswawan&show_icons=true&theme=chartreuse-dark&count_private=true&include_all_commits=false" />
  </picture>
+
  
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=guswawan&theme=chartreuse-dark">
-   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=guswawan&theme=default" />
-   <img width="48%" alt="Github constribution" src="https://github-readme-streak-stats.herokuapp.com/?user=guswawan&theme=chartreuse-dark" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=guswawan&theme=chartreuse-dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=guswawan&theme=default" />
+    <img width="48%" alt="Github constribution" src="https://github-readme-streak-stats.herokuapp.com/?user=guswawan&theme=chartreuse-dark" />
  </picture>
 </p>
 

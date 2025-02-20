@@ -10,7 +10,7 @@
 
 
 - 👨🏻‍💻 Currently working at <a href="https://www.padiumkm.id/" target="_blank">Padi</a> as a Frontend.
-- 🔭 Seeking opportunities to work in a challenging environments and push my boundaries.
+- 🔭 Seeking opportunities to work in a challenging environment and push my boundaries.
 
 ---
 

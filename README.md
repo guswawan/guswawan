@@ -68,9 +68,10 @@
 <br />
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pemudakoding/pemudakoding/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pemudakoding/pemudakoding/output/github-snake.svg">
-  <img alt="github-snake" src="https://raw.githubusercontent.com/pemudakoding/pemudakoding/output/github-snake-dark.svg">
+ <!-- <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pemudakoding/pemudakoding/output/github-snake-dark.svg"> -->
+ <!-- <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pemudakoding/pemudakoding/output/github-snake.svg"> -->
+ <!-- <img alt="github-snake" src="https://raw.githubusercontent.com/pemudakoding/pemudakoding/output/github-snake-dark.svg"> -->
+  ![Snake animation](https://raw.githubusercontent.com/guswawan/guswawan/output/github-snake.svg)
 </picture>
 
 <p>

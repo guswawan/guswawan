@@ -9,7 +9,7 @@
 <img width="40%" align="right" alt="Github Header" src="Images/git-header.svg" />
 
 
-- 👨🏻‍💻 Currently working at <a href="https://www.padiumkm.id/" target="_blank">Padi</a> as a Frontend.
+- 👨🏻‍💻 Previously at <a href="https://www.padiumkm.id/" target="_blank">Padi</a> as a Frontend.
 - 🔭 Seeking opportunities to work in a challenging environment and push my boundaries.
 
 ---

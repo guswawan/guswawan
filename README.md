@@ -30,13 +30,13 @@
 <br>
 <br>
 
-## &#x1f4c8; My Stats 🎯
+<!-- ## &#x1f4c8; My Stats 🎯 -->
  
 <!-- <h3 align="left">Profile Views: 🧐</h3>
   
 ![Profile views](https://gpvc.arturio.dev/guswawan) -->
 
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=guswawan&theme=chartreuse-dark">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=guswawan&theme=default" />
   <img alt="Github most language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guswawan&theme=chartreuse-dark" />
@@ -63,7 +63,7 @@
  </picture>
 </p>
 
-<a href="https://gitstalk.netlify.app/guswawan/" target="_blank"> See My Latest Activities Here</a>
+<a href="https://gitstalk.netlify.app/guswawan/" target="_blank"> See My Latest Activities Here</a> -->
 
 <br />
 
@@ -75,7 +75,7 @@
   </picture>
 </div>
 
-<p>
+<!-- <p>
   <picture width="48%">
     <source media="(prefers-color-scheme: dark)" srcset="https://readme-jokes.vercel.app/api">
     <source media="(prefers-color-scheme: light)" srcset="https://readme-jokes.vercel.app/api?theme=vue" />
@@ -84,4 +84,4 @@
   
   <img width="48%" height="1%" src="https://media.giphy.com/media/O51MQ3DduOcGW6ofR3/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img>
 <br/>
-</p>
+</p> -->
